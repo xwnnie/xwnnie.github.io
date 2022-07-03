@@ -2686,23 +2686,3 @@ a.underline-text:hover {
 [data-overlay-light="10"]:before {
     opacity: 1;
 }
-
-
-#experience {
-    height: 430px;
-}
-
-a.social-contact-link {
-    text-decoration: underline;
-    color: #717178;
-}
-
-a.social-contact-link:hover {
-    text-decoration: underline;
-    color: #717178;
-}
-
-p.project-links a {
-    color: white;
-    text-decoration: underline;
-}
