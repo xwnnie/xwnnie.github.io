@@ -16,3 +16,7 @@ p.project-links a {
     color: white;
     text-decoration: underline;
 }
+
+div.download-link {
+    height: 0px;
+}
