@@ -2688,5 +2688,20 @@ a.underline-text:hover {
 
 
 #experience {
-    height: 245px;
+    height: 430px;
+}
+
+a.social-contact-link {
+    text-decoration: underline;
+    color: #717178;
+}
+
+a.social-contact-link:hover {
+    text-decoration: underline;
+    color: #717178;
+}
+
+p.project-links a {
+    color: white;
+    text-decoration: underline;
 }
