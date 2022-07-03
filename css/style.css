@@ -2563,6 +2563,7 @@ a.underline-text:hover {
 .main-footer .sub-footer .text-right-left {
     text-align: right !important;
 }
+
 @media screen and (max-width: 767px) {
     .main-footer .sub-footer {
         margin-top: 0px;
